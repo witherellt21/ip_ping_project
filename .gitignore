@@ -1,0 +1,4 @@
+__pycache__/*
+ping/__pycache__/*
+ping/migrations/__pycache__/*
+ip_ping_project/__pycache__/*
